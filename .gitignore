@@ -1,0 +1,11 @@
+# Ignore the default g++ output file
+a.out
+
+# Ignore object files and dependency files
+*.o
+*.d
+
+# Ignore compiled libraries
+*.so
+*.a
+.envrc
